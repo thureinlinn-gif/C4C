@@ -3,7 +3,7 @@ Carbon Footprint Calculator Project
 
 GAIA - Carbon Footprint Calculator Gaia is a Python-based carbon footprint calculator that allows users to calculate their carbon footprint in three categories: transportation, waste, and electricity. Additionally, Gaia offers a feature that allows users to use their device's camera to take a photo and use object detection AI to identify items that contribute to carbon footprint.
 
-This project was initiated during the HubandHack 2023 hackathon by the team of Wint Kay Khine, Thiri Myat Hsu, Thu Rein Linn, Shine Lin Zay Yar, and the team mentor, Aung Khant Ko.
+This project was initiated during the HubandHack 2023 hackathon by the team of Wint Kay Khine, Designer; Thiri Myat Hsu, Designer; Thu Rein Linn, Lead coder; Shine Lin Zay Yar, Assistant Coder; and Aung Khant Ko, the team mentor.
 
 Installation To use Gaia, you'll need to have Python 3 installed on your device. Clone this repository and run the main.py file to launch the GUI using tkinter. < git clone https://github.com/username/Giaia.git cd Giaia python main.py
 
